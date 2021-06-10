@@ -186,7 +186,7 @@ main{
     font-size: 1.6rem;
     font-weight: 500;
     line-height: 1.9rem;
-    color: var(--grey);
+    color: #565555;
     background-color: var(--just-white);
 }
 
@@ -289,7 +289,7 @@ main{
     font-size: 1.6rem;
     font-weight: 500;
     line-height: 1.9rem;
-    color: var(--grey);
+    color: #565555;
     background-color: var(--just-white);
 }
 
@@ -585,6 +585,7 @@ main{
     overflow-x:scroll;
     overscroll-behavior-x: contain;
     scroll-snap-type:x proximity;
+    
 }
 
 footer{
